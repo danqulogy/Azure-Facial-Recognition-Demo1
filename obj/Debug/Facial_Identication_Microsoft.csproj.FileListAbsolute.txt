@@ -1,0 +1,12 @@
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\Facial_Identication_Microsoft.exe
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\Facial_Identication_Microsoft.pdb
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\System.Net.Http.dll
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\obj\Debug\Facial_Identication_Microsoft.csprojAssemblyReference.cache
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\obj\Debug\Facial_Identication_Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\obj\Debug\Facial_Identication_Microsoft.csproj.CopyComplete
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\obj\Debug\Facial_Identication_Microsoft.exe
+C:\Users\Dan White\RiderProjects\Facial_Identication_Microsoft\obj\Debug\Facial_Identication_Microsoft.pdb
