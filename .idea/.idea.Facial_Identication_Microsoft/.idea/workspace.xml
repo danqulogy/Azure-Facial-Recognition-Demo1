@@ -24,15 +24,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3b30a5-ae8a-4eac-ab7c-b5b77656b2e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facial_Identication_Microsoft.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facial_Identication_Microsoft.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facial_Identication_Microsoft.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Facial_Identication_Microsoft/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Facial_Identication_Microsoft.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Facial_Identication_Microsoft.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Facial_Identication_Microsoft.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Facial_Identication_Microsoft.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Facial_Identication_Microsoft.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Facial_Identication_Microsoft.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Facial_Identication_Microsoft.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Facial_Identication_Microsoft.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,27 +42,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="300">
+              <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
               <folding>
-                <marker date="1550188617614" expanded="true" signature="6:103" ph="..." />
-                <marker date="1550188617614" expanded="true" signature="144:6009" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="173:6007" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="504:1400" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="841:1228" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="875:1054" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="1090:1214" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="1245:1358" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="1557:3334" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="2507:3324" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="2538:2723" ph="/* This example uses content type &quot;application/octet-stream&quot;. ... */" />
-                <marker date="1550188617614" expanded="true" signature="3478:3793" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="3610:3783" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="3938:6001" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="4325:5949" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="4367:4632" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="4716:5935" ph="{...}" />
-                <marker date="1550188617614" expanded="true" signature="4766:5917" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="6:103" ph="..." />
+                <marker date="1550189943371" expanded="true" signature="144:6122" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="151:251" ph="/* ... */" />
+                <marker date="1550189943371" expanded="true" signature="278:6120" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="609:1505" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="946:1333" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="980:1159" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="1195:1319" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="1350:1463" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="1662:3447" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="2416:2834" ph="/* Request body. Posts a locally stored JPEG image. ... */" />
+                <marker date="1550189943371" expanded="true" signature="3591:3906" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="3723:3896" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="4051:6114" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="4438:6062" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="4480:4745" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="4829:6048" ph="{...}" />
+                <marker date="1550189943371" expanded="true" signature="4879:6030" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -175,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550187424564</updated>
-      <workItem from="1550187455423" duration="1220000" />
+      <workItem from="1550187455423" duration="2597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1220000" />
+    <option name="totallyTimeSpent" value="2597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,7 +189,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -207,10 +205,10 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" weight="0.5286416" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.63011456" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2749591" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,27 +243,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="300">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
           <folding>
-            <marker date="1550188617614" expanded="true" signature="6:103" ph="..." />
-            <marker date="1550188617614" expanded="true" signature="144:6009" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="173:6007" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="504:1400" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="841:1228" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="875:1054" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="1090:1214" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="1245:1358" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="1557:3334" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="2507:3324" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="2538:2723" ph="/* This example uses content type &quot;application/octet-stream&quot;. ... */" />
-            <marker date="1550188617614" expanded="true" signature="3478:3793" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="3610:3783" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="3938:6001" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="4325:5949" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="4367:4632" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="4716:5935" ph="{...}" />
-            <marker date="1550188617614" expanded="true" signature="4766:5917" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="6:103" ph="..." />
+            <marker date="1550189943371" expanded="true" signature="144:6122" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="151:251" ph="/* ... */" />
+            <marker date="1550189943371" expanded="true" signature="278:6120" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="609:1505" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="946:1333" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="980:1159" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="1195:1319" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="1350:1463" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="1662:3447" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="2416:2834" ph="/* Request body. Posts a locally stored JPEG image. ... */" />
+            <marker date="1550189943371" expanded="true" signature="3591:3906" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="3723:3896" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="4051:6114" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="4438:6062" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="4480:4745" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="4829:6048" ph="{...}" />
+            <marker date="1550189943371" expanded="true" signature="4879:6030" ph="{...}" />
           </folding>
         </state>
       </provider>

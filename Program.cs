@@ -6,6 +6,9 @@ using System.Text;
 
 namespace Facial_Identication_Microsoft
 {
+    /**
+     * https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/csharp
+     */
     internal class Program
     {
         private const string subscriptionKey = "fe2ee13b97834a3abf27370747c40c90";
